@@ -1,4 +1,4 @@
-# Project52 Golange Challenge
+# Project52 Golang Challenge
 
 This repo is an attempt at 52 Go Projects in 52 weeks. I'm doing this to gain experience in different domains that my day job does not cover. And for fun (Obviously)! I completely expect to fail. 
 
