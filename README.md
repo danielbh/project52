@@ -1,6 +1,15 @@
 # Project52 Golange Challenge
 
-This repo is an attempt at 52 Go Projects in 52 weeks. I'm doing this to gain experience in different domains that my day job does not cover. And for fun (Obviously)! I completely expect to fail. Let's see how I do.
+This repo is an attempt at 52 Go Projects in 52 weeks. I'm doing this to gain experience in different domains that my day job does not cover. And for fun (Obviously)! I completely expect to fail. 
+
+I've separated projects into different subdomains, those domains are:
+
+* Distributed Systems
+* Algos & DS
+* Data intensive Applications
+* Application Development
+* Networking and Protocols
+* Security
 
 Inspired by [kkdai](https://github.com/kkdai/project52)
 
