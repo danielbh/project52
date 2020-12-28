@@ -20,3 +20,17 @@ Inspired by [kkdai](https://github.com/kkdai/project52)
 * Can use previous projects to build into larger projects
 * Ideally all projects use golang.
 * Don't need to create brand new project, you can rewrite some exist project.
+
+## Projects
+
+* `01/03`:
+* `01/10`:
+* `01/17`:
+* `01/24`:
+* `01/31`:
+* `02/07`:
+* `02/14`:
+* `02/21`:
+* `02/28`:
+* `03/07`:
+* `03/14`:
