@@ -23,14 +23,16 @@ Inspired by [kkdai](https://github.com/kkdai/project52)
 
 ## Projects
 
-* `01/03`:
-* `01/10`:
-* `01/17`:
-* `01/24`:
-* `01/31`:
-* `02/07`:
-* `02/14`:
-* `02/21`:
-* `02/28`:
-* `03/07`:
-* `03/14`:
+The following are planned projects that can change at anytime before they are complete.
+
+* `01/03`: grpc go server #NetworkingAndProtocols
+* `01/10`: Middleware that detects SQL injection #Security
+* `01/17`: calendar scheduling algorithm #Algos&DS
+* `01/24`: Task Queue with rpc API #DataApp
+* `01/31`: DNS Server #Networking&Protocols
+* `02/07`: Embed Static Files in Binary #AppDev
+* `02/14`: CP Demo (CAP theorem) #DistributedSystems
+* `02/21`: AP Demo (CAP theorem) #DistributedSystems
+* `02/28`: UDP Server #Networking&Protocols
+* `03/07`: Knapsack Algorithm #Algos&DS
+* `03/14`: Write-Through Cache #DistributedSystems
