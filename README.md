@@ -25,7 +25,7 @@ Inspired by [kkdai](https://github.com/kkdai/project52)
 
 The following are planned projects that can change at anytime before they are complete.
 
-* `01/03`: grpc go server #NetworkingAndProtocols
+* `01/03`: grpc go server: https://github.com/danielbh/hello-grpc-go #NetworkingAndProtocols
 * `01/10`: Middleware that detects SQL injection #Security
 * `01/17`: calendar scheduling algorithm #Algos&DS
 * `01/24`: Task Queue with rpc API #DataApp
