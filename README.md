@@ -36,4 +36,4 @@ The following are planned projects that can change at anytime before they are co
 * `02/28`: oss go dependency scanner #Security
 * `03/07`: raft implementation via rpc servers #DataApp
 * `03/14`: Write-Through Cache #DistributedSystems
-* `03/14`: [Read Gorilla TSDB whitepaper](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf) and build something related #DataApp
+* `03/21`: [Read Gorilla TSDB whitepaper](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf) and build something related #DataApp
