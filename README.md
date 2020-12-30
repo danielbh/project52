@@ -32,7 +32,7 @@ The following are planned projects that can change at anytime before they are co
 * `01/31`: Sharding #DistributedSystems
 * `02/07`: Embed Static Files in Binary #AppDev
 * `02/14`: Build Search Index #DataApp
-* `02/21`: Transfer large payloads http #AppDev
-* `02/28`: UDP Server #Networking&Protocols
+* `02/21`: Transfer large payloads b/w services #AppDev
+* `02/28`: oss go dependency scanner #Security
 * `03/07`: raft implementation via rpc servers #DataApp
 * `03/14`: Write-Through Cache #DistributedSystems
