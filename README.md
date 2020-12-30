@@ -26,13 +26,13 @@ Inspired by [kkdai](https://github.com/kkdai/project52)
 The following are planned projects that can change at anytime before they are complete.
 
 * `01/03`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/hello-grpc-go?style=social) [grpc go server](https://github.com/danielbh/hello-grpc-go) #Networking&Protocols
-* `01/10`: Middleware that detects SQL injection #Security
-* `01/17`: calendar scheduling algorithm #Algos&DS
-* `01/24`: Task Queue with rpc API #DataApp
-* `01/31`: DNS Server #Networking&Protocols
+* `01/10`: CP Demo (CAP theorem) #DistributedSystems
+* `01/17`: AP Demo (CAP theorem) #DistributedSystems
+* `01/24`: Knapsack Problem #Algos&DS
+* `01/31`: Sharding #DistributedSystems
 * `02/07`: Embed Static Files in Binary #AppDev
-* `02/14`: CP Demo (CAP theorem) #DistributedSystems
-* `02/21`: AP Demo (CAP theorem) #DistributedSystems
+* `02/14`: Middleware that detects SQL injection #Security
+* `02/21`: Task Queue with rpc API #DataApp
 * `02/28`: UDP Server #Networking&Protocols
-* `03/07`: Knapsack Algorithm #Algos&DS
+* `03/07`: 
 * `03/14`: Write-Through Cache #DistributedSystems
