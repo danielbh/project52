@@ -34,5 +34,5 @@ The following are planned projects that can change at anytime before they are co
 * `02/14`: Middleware that detects SQL injection #Security
 * `02/21`: Task Queue with rpc API #DataApp
 * `02/28`: UDP Server #Networking&Protocols
-* `03/07`: 
+* `03/07`: raft implementation via rpc servers #DataApp
 * `03/14`: Write-Through Cache #DistributedSystems
