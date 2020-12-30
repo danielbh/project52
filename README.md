@@ -31,8 +31,8 @@ The following are planned projects that can change at anytime before they are co
 * `01/24`: Knapsack Problem #Algos&DS
 * `01/31`: Sharding #DistributedSystems
 * `02/07`: Embed Static Files in Binary #AppDev
-* `02/14`: Middleware that detects SQL injection #Security
-* `02/21`: Task Queue with rpc API #DataApp
+* `02/14`: Build Search Index #DataApp
+* `02/21`: Transfer large payloads http #AppDev
 * `02/28`: UDP Server #Networking&Protocols
 * `03/07`: raft implementation via rpc servers #DataApp
 * `03/14`: Write-Through Cache #DistributedSystems
