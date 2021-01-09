@@ -26,7 +26,7 @@ Inspired by [kkdai](https://github.com/kkdai/project52)
 The following are planned projects that can change at anytime before they are complete.
 
 * `01/03`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/hello-grpc-go?style=social) [grpc go server](https://github.com/danielbh/hello-grpc-go) #Networking&Protocols
-* `01/10`: mongodb, dynamodb, postgres, mysql 4 quick demos and comparisons
+* `01/10`: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons
 * `01/17`: node 14 worker threads vs go goroutines
 * `01/24`:
 * `01/31`: Sharding #DistributedSystems
