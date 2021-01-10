@@ -28,12 +28,15 @@ The following are planned projects that can change at anytime before they are co
 * `01/03`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/hello-grpc-go?style=social) [grpc go server](https://github.com/danielbh/hello-grpc-go) #Networking&Protocols
 * `01/10`:  ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [dynamodb evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
 * `01/17`: node 14 worker threads vs go goroutines
-* `01/24`: 
+* `01/24`: LSM Trees
 * `01/31`: Sharding #DistributedSystems
-* `02/07`:
-* `02/14`: Build Search Index #DataApp
+* `02/07`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [postgres evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
+* `02/14`:  Build Search Index #DataApp
 * `02/21`: Transfer large payloads b/w services #AppDev
-* `02/28`: oss go dependency scanner #Security
+* `02/28`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [mongodb evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
 * `03/07`: raft implementation via rpc servers #DataApp
-* `03/14`: Write-Through Cache #DistributedSystems
-* `03/21`: [Read Gorilla TSDB whitepaper](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf) and build something related #DataApp
+* `03/14`:  ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [mysql/aurora evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
+* `03/21`: oss go dependency scanner #Security
+* `03/28`: Write-Through Cache #DistributedSystems
+* `04/04`: [Read Gorilla TSDB whitepaper](https://www.vldb.org/pvldb/vol8/p1816-teller.pdf) and build something related #DataApp 
+* `04/11`: 
