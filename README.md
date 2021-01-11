@@ -25,9 +25,9 @@ Inspired by [kkdai](https://github.com/kkdai/project52)
 
 The following are planned projects that can change at anytime before they are complete.
 
-* `01/03`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/hello-grpc-go?style=social) [grpc go server](https://github.com/danielbh/hello-grpc-go) #Networking&Protocols
+* `01/03`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/hello-grpc-go?style=social) [grpc go server](https://github.com/danielbh/hello-grpc-go): go grpc single node cache with set/get. #Networking&Protocols
 * `01/10`:  ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [dynamodb evaluation](https://github.com/danielbh/popular-db-comparisons): part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons. #AppDev
-* `01/17`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/node-workers-vs-goroutines?style=social) [node workers vs goroutines](https://github.com/danielbh/node-workers-vs-goroutines): comparison of performance, overhead, and maintainability of node worker threads vs goroutines #AppDev
+* `01/17`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/node-workers-vs-goroutines?style=social) [node workers vs goroutines](https://github.com/danielbh/node-workers-vs-goroutines): comparison of performance, overhead, and maintainability of node worker threads vs goroutines. #AppDev
 * `01/24`: LSM Trees
 * `01/31`: Sharding #DistributedSystems
 * `02/07`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [postgres evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
