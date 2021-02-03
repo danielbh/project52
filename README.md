@@ -30,8 +30,8 @@ The following are planned projects that can change at anytime before they are co
 * `01/17`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/node-workers-vs-goroutines?style=social) [node worker-threads vs goroutines](https://github.com/danielbh/node-worker-threads-vs-goroutines): comparison of performance, overhead, and maintainability of node worker threads vs goroutines. #AppDev
 * `01/24`: Private Project. Cannot open source at this time. 
 * `01/31`: Prepared presentation for internal meetup for a framework we created. 
-* `02/07`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [postgres evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
-* `02/14`: Sharding #DataApp
+* `02/07`: Sharding #DataApp 
+* `02/14`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [postgres evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
 * `02/21`: LSM trees
 * `02/28`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [mongodb evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
 * `03/07`:  Build Search Index #DataApp
