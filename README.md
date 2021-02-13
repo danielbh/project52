@@ -32,7 +32,7 @@ The following are planned projects that can change at anytime before they are co
 * `01/31`: Prepared presentation for internal meetup for a framework we created. 
 * `02/07`: Another internal project... sorry :( 
 * `02/14`: LSM trees 
-* `02/21`: How does docker throttle container CPU? 
+* `02/21`: How do container runtimes throttle container CPU? 
 * `02/28`: ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [postgres evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
 * `03/07`:  Build Search Index #DataApp
 * `03/14`:  ![GitHub stars](https://img.shields.io/github/stars/danielbh/popular-db-comparisons?style=social) [mysql/aurora evaluation](https://github.com/danielbh/popular-db-comparisons), part of popular db comparisons for: mongodb, dynamodb, postgres, mysql/aurora 4 quick demos and comparisons.
